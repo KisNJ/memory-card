@@ -1,0 +1,135 @@
+@import url(//db.onlinewebfonts.com/c/022c1f9c43c0c5f997a34d25ed4d5e16?family=GWENT);
+*::selection{
+    background-color: #467ed1;
+}
+img{
+    position: relative;
+    z-index: -1;
+    max-width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 0 #111827 inset;
+}
+html{
+    background-color: #f3f4f6;
+}
+.App{
+    font-family: GWENT;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+}
+header{
+    height: 10vh;
+    padding: 20px;
+    position: relative;
+    background-color: #374151;
+    color:#e5e7eb;
+    display: flex;
+    align-items: center;
+    font-size: clamp(45px,6vw,70px);
+    box-shadow: 0px 1px 4px 0px black;
+    z-index: 22;
+}
+.App>div{
+    background-color: #f3f4f6;
+}
+.card-container{
+    padding-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    gap:1rem;
+    margin: 0 20px;
+}
+.card{
+    font-family: GWENT;
+    display: flex;
+    position: relative;
+    z-index: 22;
+    flex-direction: column;
+    align-items: center;
+    background-color: #111827;
+    color:#e5e7eb;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 7px 1px 7px #111827;
+    transition: transform 500ms ease-in-out;
+}
+.card:hover{
+    transform: scale(102%);
+}
+
+.card>div{
+    text-align: center;
+
+}
+.shadow-holder{
+    position: relative;
+}
+.shadow
+{
+ box-shadow: inset 0px 0px 18px 20px #111827;
+ height: 100%;
+ position: absolute;
+ width: 100%;
+ top:0;
+}
+.scores{
+    display: flex;
+    font-size: clamp(30px,3vw,45px);
+    justify-content: space-around;
+    padding: 10px 0px;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-bottom: 20px;
+    background-color:#d1d5db;
+    align-items: center;
+    box-shadow: 0px 1px 8px 0px black;
+}
+.name{
+    font-size: 4vh;
+    margin: 10px 0px;
+}
+.quote{
+    font-size: 2vh;
+    margin: 10px 0px;
+}
+.game-over{
+    max-width:400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.game-over img{
+    max-width: 300px;
+}
+.game-over div[class="card"]{
+    box-shadow: inset 0px 0px 20px 1px red, 2px -1px 14px 0px red;
+    inset: 0;
+}
+
+.gameno{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.re{
+    font-size: clamp(30px,3vw,45px);
+}
+button{
+    background-color: #111827;
+    color:#d1d5db;
+    font-family: GWENT;
+    font-size: clamp(30px,3vw,45px);
+    padding: 20px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: #374151;
+}
+.won-container{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
