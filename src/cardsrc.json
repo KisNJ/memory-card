@@ -1,0 +1,199 @@
+[
+    {"id": "0",
+        "srcId": "10010000",
+        "title": "Ruehin",
+        "quote": " No one has ever entered that forest and lived to tell the tale… "
+    },
+    {
+        "id": "1",
+        "srcId": "10020000",
+        "title": "Arachas Venom",
+        "quote": " If substance makes contact with eyes, rinse immediately with cold water, then commence drawing up will."
+    },
+    {
+        "id": "2",
+        "srcId": "10030000",
+        "title": "Milaen",
+        "quote": " The old baron treated poachers mercilessly. Luckily for Milaen, the old baron was dead and his men, desperate outlaws. "
+    },
+    {
+        "id": "3",
+        "srcId": "10040000",
+        "title": "Derran",
+        "quote": " Whatever caused this madness must have been terrifying… "
+    },
+    {
+        "id": "4",
+        "srcId": "10050000",
+        "title": "Reconnaissance",
+        "quote": " If our scouts don't come back, we turn around. The yokels claim these woods are full o' squirrels - and I don't mean the nut-gatherin' kind. "
+    },
+    {
+        "id": "5",
+        "srcId": "10070000",
+        "title": "Ciri",
+        "quote": " I go wherever I please, whenever I please. "
+    },
+    {
+        "id": "6",
+        "srcId": "10080000",
+        "title": "Geralt Igni ",
+        "quote": " A twist of a witcher's fingers can light a lamp… or incinerate a foe. "
+    },
+    {
+        "id": "7",
+        "srcId": "10090000",
+        "title": "Geralt of Rivia",
+        "quote": " If that's what it takes to save the world, it's better to let that world die. "
+    },
+    {
+        "id": "8",
+        "srcId": "10100000",
+        "title": "Regis",
+        "quote": " Men, the polite ones, at least, would call me a monster. A blood–drinking freak. "
+    },
+    {
+        "id": "9",
+        "srcId": "10110000",
+        "title": "Regis Higher Vampire",
+        "quote": " He becomes invisible at will. His glance hypnotizes into a deep sleep. He then drinks his fill, turns into a bat and flies off. Altogether uncouth. "
+    },
+    {
+        "id": "10",
+        "srcId": "10120000",
+        "title": "Triss Merigold",
+        "quote": " I can take care of myself. Trust me. "
+    },
+    {
+        "id": "11",
+        "srcId": "10130000",
+        "title": "Villentretenmerth",
+        "quote": " Also calls himself Borkh Three Jackdaws… he's not the best at names. "
+    },
+    {
+        "id": "12",
+        "srcId": "10140000",
+        "title": "Yennefer",
+        "quote": " Magic is Chaos, Art and Science. It is a curse, a blessing and a progression. "
+    },
+    {
+        "id": "13",
+        "srcId": "10150000",
+        "title": "Zoltan Scoundrel ",
+        "quote": " Apologies. My exotic pet's a clever birdie, but a wee bit lewd. Paid ten thalers for the beaute. "
+    },
+    {
+        "id": "14",
+        "srcId": "10160000",
+        "title": "Ciri Dash ",
+        "quote": " Know when fairy tales cease to be tales? When people start believing them. "
+    },
+    {
+        "id": "15",
+        "srcId": "10170000",
+        "title": "Geralt Aard ",
+        "quote": " A blast of concentrated energy that pummels everything in its path. Great for when you forget your keys. "
+    },
+    {
+        "id": "16",
+        "srcId": "10180000",
+        "title": "Avallac'h Sage",
+        "quote": " Amongst the free elves were a handful of Aen Saevherne, or Sages. They were an enigma, bordering on a legend. "
+    },
+    {
+        "id": "17",
+        "srcId": "10190000",
+        "title": "Yennefer Conjurer ",
+        "quote": " A good sorceress must know when to conjure ice… and when to conjure fire. "
+    },
+    {
+        "id": "18",
+        "srcId": "10200000",
+        "title": "Dudu",
+        "quote": " A mimic, among the many other names for his sort: changelings, doublings, vexlings… or dopplers. "
+    },
+    {
+        "id": "19",
+        "srcId": "10210000",
+        "title": "Eskel",
+        "quote": " I'm a simple witcher, Wolf. Don't fight dragons, don't fraternize with kings and don't sleep with sorceresses… "
+    },
+    {
+        "id": "20",
+        "srcId": "10220000",
+        "title": "Vesemir",
+        "quote": " If you're to be hanged, ask for water. Anything can happen before they fetch it. "
+    },
+    {
+        "id": "21",
+        "srcId": "10230000",
+        "title": "Lambert",
+        "quote": " Now that's the kind of negotiating I understand. "
+    },
+    {
+        "id": "22",
+        "srcId": "10240000",
+        "title": "Myrgtabrakke",
+        "quote": " Never get between a mother dragon and her young. "
+    },
+    {
+        "id": "23",
+        "srcId": "10250000",
+        "title": "Ocvist",
+        "quote": " The Master of Quartz Mountain, the Destroyer, Trajan's Slayer. In his free time, he likes long walks and candlelight dinners. "
+    },
+    {
+        "id": "24",
+        "srcId": "10260000",
+        "title": "Olgierd von Everec",
+        "quote": " At least you now know I don't easily lose my head. "
+    },
+    {
+        "id": "25",
+        "srcId": "10270000",
+        "title": "Operator",
+        "quote": " As time and space collapse before us, they expand behind us. In that way one moves forward through both. "
+    },
+    {
+        "id": "26",
+        "srcId": "10280000",
+        "title": "Prize-Winning Cow ",
+        "quote": " Mooooo. "
+    },
+    {
+        "id": "27",
+        "srcId": "10290000",
+        "title": "Roach",
+        "quote": " Geralt, we gotta have a man–to–horse talk. No offense, but your riding skills? They leave a bit to be desired, buddy. "
+    },
+    {
+        "id": "28",
+        "srcId": "10300000",
+        "title": "Johnny",
+        "quote": " Life without savoring the sound of surreptitious shananacking is like licking snails through a cloth. "
+    },
+    {
+        "id": "29",
+        "srcId": "10310000",
+        "title": "Sarah",
+        "quote": " Little Sarah wants to play! "
+    },
+    {
+        "id": "30",
+        "srcId": "10320000",
+        "title": "King of Beggars",
+        "quote": " I might just discover I look great without ears… or hands. Apparently the King of Beggars accepts both as partial payment. "
+    },
+    {
+        "id": "31",
+        "srcId": "10330000",
+        "title": "Cyprian Wiley ",
+        "quote": " One of four bosses who control the city's underworld - the others being Sigi Reuven, Carlo The Cleaver Varese and the King of Beggars. "
+    },
+    {
+        "id": "32",
+        "srcId": "10340000",
+        "title": "Iris von Everec",
+        "quote": " I remember so little… Yet when I think of my rose, I begin to recall what was. "
+    }
+]
